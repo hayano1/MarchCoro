@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>ramez.edu</groupId>
 	<artifactId>demo</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>demo</name>
 	<description>Demo project for Spring Boot</description>
@@ -89,7 +89,7 @@
 		<connection>scm:git:https://github.com/hayano1/MarchCoro.git</connection>
 		<developerConnection>scm:git:https://github.com/hayano1/MarchCoro.git</developerConnection>
 		<url>https://github.com/hayano1/MarchCoro.git</url>
-		<tag>v1.0.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 </project>
